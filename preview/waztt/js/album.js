@@ -2,7 +2,7 @@ window.onload = function () {
     // 添加影片按钮
     let add_pic_btn = document.getElementById('add-pic-btn');
     add_pic_btn.onclick = function () {
-        alert("小样儿！还想动我和嘎嘎的网站");
+        alert("前方正在施工!");
     }
 
     // 加载动画2s
